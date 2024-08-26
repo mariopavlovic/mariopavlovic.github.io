@@ -1,0 +1,6 @@
+# Example configuration for navigation links
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Mentorship"
+    url: "/mentorship/"
