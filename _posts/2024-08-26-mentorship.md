@@ -1,6 +1,8 @@
 ---
-layout: default
-title: Mentorship
+layout: post
+title: "Mentorship"
+date: 2024-08-26 12:00:00 +0000
+categories: blog
 permalink: /mentorship/
 ---
 

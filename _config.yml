@@ -1,4 +1,8 @@
-# Example configuration for navigation links
+title: Mario on things
+description: Mario's thoughts about random things
+baseurl: ""
+url: "https://mariopavlovic.github.io/"
+
 nav:
   - title: "Home"
     url: "/"
