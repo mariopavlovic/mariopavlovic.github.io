@@ -8,9 +8,8 @@ url: "https://mariopavlovic.github.io/"
 # Meta
 markdown: kramdown
 plugins:
-  - jekyll-include-cache
+- jekyll-remote-theme
 
 
 # Minimal Mistakes settings
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "dark"
+remote_theme: pages-themes/slate@v0.2.0
