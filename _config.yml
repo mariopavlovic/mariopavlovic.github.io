@@ -1,11 +1,16 @@
+# General
 title: Mario on things
 description: Mario's thoughts about random things
 baseurl: ""
 url: "https://mariopavlovic.github.io/"
-theme: minimal-mistakes-jekyll
 
-nav:
-  - title: "Home"
-    url: "/"
-  - title: "Mentorship"
-    url: "/mentorship/"
+
+# Meta
+markdown: kramdown
+plugins:
+  - jekyll-include-cache
+
+
+# Minimal Mistakes settings
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "dark"
