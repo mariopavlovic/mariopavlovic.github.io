@@ -2,6 +2,7 @@ title: Mario on things
 description: Mario's thoughts about random things
 baseurl: ""
 url: "https://mariopavlovic.github.io/"
+theme: minimal-mistakes-jekyll
 
 nav:
   - title: "Home"
