@@ -5,11 +5,8 @@ baseurl: ""
 url: "https://mariopavlovic.github.io/"
 
 
-# Meta
+# Style
 markdown: kramdown
 plugins:
 - jekyll-remote-theme
-
-
-# Minimal Mistakes settings
 remote_theme: pages-themes/slate@v0.2.0
